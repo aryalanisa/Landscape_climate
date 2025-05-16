@@ -9,3 +9,6 @@ This script uses Google Earth Engine to compute the maximum daytime land surface
 
 ## Output
 A single image of maximum LST per pixel in °C
+
+**#Landscapemetrics**
+This script uses R to compute different landscapemetrics using land cover map of certain region and shows how the metrics were calculated by adding grids over region. This code also contains how topographical data were incorporated for grid cells to create datasets. 
