@@ -9,3 +9,9 @@ This script uses R for regression analysis using XGBoost model. LST is the targe
 
 **SHAP analysis**
 This script uses python for SHAP analysis using Tree.explainer. 
+
+## Citation
+
+If you use this project, please cite it as:
+> Aryal, A. (2025). *Landscape_climate* (v1.0.0). Zenodo.
+https://doi.org/10.5281/zenodo.15433643 
