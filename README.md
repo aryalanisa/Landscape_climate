@@ -6,3 +6,6 @@ This script uses R to compute different landscapemetrics using land cover map of
 
 **XGBoost regression**
 This script uses R for regression analysis using XGBoost model. LST is the target variable and all other features are predicting variables. 
+
+**SHAP analysis**
+This script uses python for SHAP analysis using Tree.explainer. 
